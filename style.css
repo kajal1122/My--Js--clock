@@ -1,0 +1,21 @@
+body
+{
+  background-image: url('clock7.jpg');
+
+}
+.time-wrapper
+{
+  text-align: center;
+}
+h1
+{
+  margin-top: 200px;
+  margin-left: 800px;
+  font-size: 10em;
+  color:#09D0F8;
+  padding:10px,20px;
+  border: 15px solid #F8094E;
+  display: inline-block;
+  border-style: dashed double;
+
+}
